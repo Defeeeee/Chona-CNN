@@ -4,7 +4,7 @@ import tensorflow as tf
 import numpy as np
 
 # Load your model
-model = tf.keras.models.load_model('your_model.h5')
+model = tf.keras.models.load_model('notmnist_model1.h5')
 
 st.title('My 28x28 Image Model')
 
